@@ -1,6 +1,11 @@
 # ECS289A-CostAwareRecipeGenerator
 We aim to build a cost-efficient recipe generator capable of recommending cheaper alternatives to existing dishes without compromising nutritional value or portion sizes. Rising food costs and growing interest in healthy, affordable eating highlight the need for intelligent recipe optimization tools.
 
+# Dataset
+Link: https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m
+
+Extract the recipe_data.csv to the root directory of this repo
+
 # Dev Setup / Run Instructions
 
 Follow these steps to create a virtual environment, install dependencies, and run the embedding script.
